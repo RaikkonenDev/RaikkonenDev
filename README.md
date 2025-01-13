@@ -5,14 +5,7 @@
 Olá, meu nome é André, tenho 18 anos e sou de Minas Gerais. Recentemente, concluí o ensino médio na Escola Isaltina e, para expandir meus conhecimentos, me formei no curso técnico de Tecnologia da Informação (TI). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR, com o objetivo de me aprofundar ainda mais no universo da programação e tecnologia.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Email pessoa" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/andré-raikkonen-517630346/">
         <img 
             alt="meu LinkedIN" 
             title="Total de estrelas LinkedIN" 
