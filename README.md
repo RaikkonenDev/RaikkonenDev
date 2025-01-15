@@ -1,4 +1,4 @@
-# 👩🏻‍💻 André Raikkonen
+#  André Raikkonen
 
 **`Desenvolvedora`**
 
@@ -73,7 +73,7 @@ Olá, meu nome é André, tenho 18 anos e sou de Minas Gerais. Recentemente, con
 <br/>
 
 ### 📊 Estatísticas
-
+ 
 <p>
   <img 
     align="left" 
@@ -81,14 +81,20 @@ Olá, meu nome é André, tenho 18 anos e sou de Minas Gerais. Recentemente, con
     height="200" 
     style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=RaikkonenDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+     <div>
+   <a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaikkonenDev&theme=dracula&hide_langs_below=1" />
+</a>
+</div>
+  
+ 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaikkonenDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+
+
+
+
+
+</a>
 
 
   
