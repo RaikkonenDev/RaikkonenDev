@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Olá, meu nome é André, tenho 18 anos e sou de Minas Gerais. Recentemente, concluí o ensino médio na Escola Isaltina e, para expandir meus conhecimentos, me formei no curso técnico de Tecnologia da Informação (TI). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR, com o objetivo de me aprofundar ainda mais no universo da programação e tecnologia.
+Olá, meu nome é André, tenho 18 anos e sou de Minas Gerais. Recentemente, concluí o ensino médio na Escola Isaltina e, para expandir meus conhecimentos, me formei no curso técnico de Tecnologia da Informação (TI). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFMG, com o objetivo de me aprofundar ainda mais no universo da programação e tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/andré-raikkonen-517630346/">
